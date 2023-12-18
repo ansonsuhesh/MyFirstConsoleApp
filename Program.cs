@@ -15,7 +15,7 @@ namespace MyFirstConsoleApp
 
         private static void OperatorExamples()
         {
-            int width = 3;
+            int width = 5;
             width++;
             int height = 2 + 4;
             int area = width * height;
